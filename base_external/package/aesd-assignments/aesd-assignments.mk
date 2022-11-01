@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-#TODO: Fill up the contents below in order to reference your assignment 3 git contents
+#TODO: Fill up the contents below in order to reference your assignment 3 git contents:A3 repo
 AESD_ASSIGNMENTS_VERSION = '317086a6e3879a6c49674e59610c46389d966a0d'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
