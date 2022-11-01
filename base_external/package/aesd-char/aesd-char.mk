@@ -2,8 +2,8 @@
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com: A3 repo
-AESD_CHAR_VERSION = 85406dcb58010def25346de7aa4e1983670f5b3a
-AESD_CHAR_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-Ganeshkm10.git
+AESD_CHAR_VERSION = '317086a6e3879a6c49674e59610c46389d966a0d'
+AESD_CHAR_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-Ganeshkm10.git'
 AESD_CHAR_SITE_METHOD = git
 AESD_CHAR_GIT_SUBMODULES = YES
 
